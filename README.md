@@ -2,6 +2,7 @@
 
 ## How to run it
 
+* Open the scene `clock.scene` in [I3T](https://i3t-tool.org/)
 * Click the **[INPUT - Play]** button (Pulse) to start the clock.
 * To pause the clock, click **[INPUT - Pause]**, and to reset it, click **[INPUT - Stop & Reset]**.
 * You can also change the starting time under **[INPUT - Hours/Minutes/Seconds]**.
