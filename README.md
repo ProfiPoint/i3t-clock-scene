@@ -8,9 +8,11 @@
 * You can also change the starting time under **[INPUT - Hours/Minutes/Seconds]**.
 * To change the speed of the clock, adjust the **[INPUT - Step size per second]**.
 
+
 ---
 
 ## How it works
+[DESMOS demo: goniometric functions -> modulo](https://www.desmos.com/calculator/i09n8snxir)
 
 ### 1. Main View
 ![Main View](screenshots/1-main.png)
